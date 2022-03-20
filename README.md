@@ -1,5 +1,9 @@
 ### Hi there, I`m Dastan👋
 
+
+## I`m a beginner Software Engineer
+
+
 <!--
 **dastankg/dastankg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
