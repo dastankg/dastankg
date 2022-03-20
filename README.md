@@ -20,3 +20,4 @@ My static
 [![Twitter](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=twitter)](https://twitter.com/DastanSazanov)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dastankg&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
