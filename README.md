@@ -2,7 +2,15 @@
 
 ## I`m a beginner Software Engineer
 
-My static
+
+
+
+###My statistics in tasks
+[![LeetCode](https://img.shields.io/badge/-Leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/dastankg/)
+[![Codeforces](https://img.shields.io/badge/-codeforces-090909?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dastankg)
+[![HackerRang](https://img.shields.io/badge/-HackerRang-090909?style=for-the-badge&logo=HackerRang&logoColor=white)](https://www.hackerrank.com/astan12324)
+[![Stepik](https://img.shields.io/badge/-Stepik-090909?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/139559528)
+
 
 ### Languages and Tools
 
