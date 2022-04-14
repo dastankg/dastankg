@@ -22,6 +22,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=green)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=blue)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 
 ### Follow me
 
