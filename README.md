@@ -24,7 +24,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=blue)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go)
-![C++](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=C++)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)
 
 ### Follow me
 
