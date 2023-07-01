@@ -57,12 +57,7 @@
 
 <p>
  </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+<img hight="320" width="450" align="right" alt="GIF" src="https://i.gifer.com/Afdn.gif">
 
 <a href="astan12324@gmail.com">
  <img align="left" alt="Gmail" width="110" hight="100" src="assets/icons/free-icon-gmail-732200.png" />
@@ -71,10 +66,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Linkedin" width="100" hight="100" src="assets/icons/free-icon-linkedin-3536505.png"/>
  </a>
  <a href="https://twitter.com/DastanSazanov">
-  <img align="left" alt="Instagram" width="100" hight="100" src="assets/icons/free-icon-twitter-3536424.png"/>
+  <img align="left" alt="Twitter" width="100" hight="100" src="assets/icons/free-icon-twitter-3536424.png"/>
  </a>
  <a href="https://www.instagram.com/_dast4n/">
-  <img align="left" alt="Twitter" width="100" hight="100" src="assets/icons/free-icon-instagram-2111463.png"/>
+  <img align="left" alt="Instagram" width="100" hight="100" src="assets/icons/free-icon-instagram-2111463.png"/>
  </a>
  
 </br>
@@ -83,7 +78,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 <a href="https://steamcommunity.com/profiles/76561198378650929/">
-  <img align="left" alt="Twitter" width="100" hight="100" src="assets/icons/icons8-discord-96.png"/>
+  <img align="left" alt="Steam" width="100" hight="100" src="assets/icons/icons8-steam-96.png"/>
+ </a>
+ <a href="https://discord.gg/wsj2YFJr">
+  <img align="left" alt="Discord" width="100" hight="100" src="assets/icons/icons8-discord-96.png"/>
  </a>
  </p>
  
