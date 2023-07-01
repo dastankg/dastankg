@@ -1,7 +1,7 @@
-# Konichiwa 👋
+# HI 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="assets/giphy.gif">
 </div>
 
 </br>
@@ -11,19 +11,19 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 20 years  old, a computer science student in my third year. I am from Kyrgyzstan.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="assets/1.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Web Development
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Video Games
+- ✨ Watching Movie
+- ✨ To learn something new.
+
 
 </br>
 </br>
@@ -37,7 +37,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="assets/icons/free-icon-python-5968350.png" alt="python" width="120" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
