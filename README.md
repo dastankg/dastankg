@@ -1,7 +1,7 @@
 # HI 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/giphy.gif">
+<img hight="300" width="600" alt="GIF" align="center" src="assets/giphy.gif">
 </div>
 
 </br>
@@ -76,7 +76,7 @@
 
 <p>
  </br>
-<img hight="300" width="300" align="right" alt="GIF" src="assets/Afdn.gif">
+<img hight="350" width="300" align="right" alt="GIF" src="assets/Afdn.gif">
 
 <a href="astan12324@gmail.com">
  <img align="left" alt="Gmail" width="110" hight="100" src="assets/icons/free-icon-gmail-732200.png" />
