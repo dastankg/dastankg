@@ -25,6 +25,12 @@
 - ✨ To learn something new.
 
 
+<p>
+ </br>
+ <a href="https://leetcode.com/dastankg/">
+  <img align="left" alt="LeetCode" width="100" hight="100" src="assets/icons/icons8-discord-96.png"/>
+ </a>
+</p>
 </br>
 </br>
 </br>
@@ -57,7 +63,7 @@
 
 <p>
  </br>
-<img hight="320" width="450" align="right" alt="GIF" src="https://i.gifer.com/Afdn.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="assets/Afdn.gif">
 
 <a href="astan12324@gmail.com">
  <img align="left" alt="Gmail" width="110" hight="100" src="assets/icons/free-icon-gmail-732200.png" />
