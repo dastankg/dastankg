@@ -28,7 +28,16 @@
 <p>
  </br>
  <a href="https://leetcode.com/dastankg/">
-  <img align="left" alt="LeetCode" width="100" hight="100" src="assets/icons/icons8-discord-96.png"/>
+  <img align="left" alt="LeetCode" width="100" hight="100" src="assets/icons/icons8-level-up-your-coding-skills-and-quickly-land-a-job-96.png"/>
+ </a>
+ <a href="https://codeforces.com/profile/dastankg">
+  <img align="left" alt="LeetCode" width="100" hight="100" src="assets/icons/icons8-codeforces.-programming-competitions-and-contests,-programming-community.-96.png"/>
+ </a>
+ <a href="https://atcoder.jp/users/dastan">
+  <img align="left" alt="LeetCode" width="100" hight="100" src="assets/icons/atcoder.png"/>
+ </a>
+ <a href="https://www.hackerrank.com/dastankg?hr_r=1">
+  <img align="left" alt="LeetCode" width="100" hight="100" src="assets/icons/icons8-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-96.png"/>
  </a>
 </p>
 </br>
@@ -63,7 +72,7 @@
 
 <p>
  </br>
-<img hight="320" width="450" align="right" alt="GIF" src="assets/Afdn.gif">
+<img hight="320" width="350" align="right" alt="GIF" src="assets/Afdn.gif">
 
 <a href="astan12324@gmail.com">
  <img align="left" alt="Gmail" width="110" hight="100" src="assets/icons/free-icon-gmail-732200.png" />
