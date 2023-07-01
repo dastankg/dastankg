@@ -14,7 +14,7 @@
 [![LeetCode](https://img.shields.io/badge/-Leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/dastankg/)
 [![Codeforces](https://img.shields.io/badge/-codeforces-090909?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dastankg)
 [![HackerRang](https://img.shields.io/badge/-HackerRang-090909?style=for-the-badge&logo=HackerRang&logoColor=white)](https://www.hackerrank.com/dastankg)
-[![Stepik](https://img.shields.io/badge/-Stepik-090909?style=for-the-badge&logo=Stepik&logoColor=white)](https://stepik.org/users/139559528)
+[![AtCoder](https://img.shields.io/badge/-AtCoder-090909?style=for-the-badge&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/dastan)
 
 ### Languages and Tools
 
