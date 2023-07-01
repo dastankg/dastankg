@@ -13,7 +13,7 @@
 
 ### - I'm 20 years  old, a computer science student in my third year. I am from Kyrgyzstan.
 
-<img hight="350" width="400" alt="GIF" align="right" src="assets/1.gif">
+<img hight="300" width="400" alt="GIF" align="right" src="assets/1.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -76,7 +76,7 @@
 
 <p>
  </br>
-<img hight="320" width="350" align="right" alt="GIF" src="assets/Afdn.gif">
+<img hight="300" width="300" align="right" alt="GIF" src="assets/Afdn.gif">
 
 <a href="astan12324@gmail.com">
  <img align="left" alt="Gmail" width="110" hight="100" src="assets/icons/free-icon-gmail-732200.png" />
