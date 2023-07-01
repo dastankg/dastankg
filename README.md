@@ -13,7 +13,7 @@
 
 ### - I'm 20 years  old, a computer science student in my third year. I am from Kyrgyzstan.
 
-<img hight="400" width="500" alt="GIF" align="right" src="assets/1.gif">
+<img hight="350" width="400" alt="GIF" align="right" src="assets/1.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -64,21 +64,27 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="astan12324@gmail.com">
+ <img align="left" alt="Gmail" width="110" hight="100" src="assets/icons/free-icon-gmail-732200.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a href="https://www.linkedin.com/in/dastankg/">
+  <img align="left" alt="Linkedin" width="100" hight="100" src="assets/icons/free-icon-linkedin-3536505.png"/>
+ </a>
+ <a href="https://twitter.com/DastanSazanov">
+  <img align="left" alt="Instagram" width="100" hight="100" src="assets/icons/free-icon-twitter-3536424.png"/>
+ </a>
+ <a href="https://www.instagram.com/_dast4n/">
+  <img align="left" alt="Twitter" width="100" hight="100" src="assets/icons/free-icon-instagram-2111463.png"/>
+ </a>
+ 
 </br>
 </br>
 </br>
-</a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
+</br>
+</br>
+<a href="https://steamcommunity.com/profiles/76561198378650929/">
+  <img align="left" alt="Twitter" width="100" hight="100" src="assets/icons/icons8-discord-96.png"/>
+ </a>
  </p>
  
 
@@ -93,8 +99,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  <a href="https://github.com/dastankg/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=dastankg&&show_icons=true&theme=radical"/>
   </a>
   </p>
 
