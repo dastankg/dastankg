@@ -26,12 +26,26 @@
 ![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)
 
-### Follow me
+### 🤝 Social media:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/_dast4n/)
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/youthkg)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dastan-sazanov-8b8a7b224/)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/profile.php?id=100009263881008&sk=friends)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter)](https://twitter.com/DastanSazanov)
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/dastankg/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCbORpXVw1JNc0JYFSUqLWXA" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    </a> -->
+    <a href="https://vk.com/f1ll_zzz" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
+    </a> -->
+  </div>
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dastankg&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
