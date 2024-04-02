@@ -25,30 +25,7 @@
 - ✨ To learn something new.
 
 
-</br>
-</br>
-<p>
- </br>
- <a href="https://leetcode.com/dastankg/">
-  <img align="left" alt="LeetCode" width="100" hight="100" src="assets/icons/icons8-level-up-your-coding-skills-and-quickly-land-a-job-96.png"/>
- </a>
- <a href="https://codeforces.com/profile/dastankg">
-  <img align="left" alt="LeetCode" width="100" hight="100" src="assets/icons/icons8-codeforces.-programming-competitions-and-contests,-programming-community.-96.png"/>
- </a>
- <a href="https://atcoder.jp/users/dastan">
-  <img align="left" alt="LeetCode" width="100" hight="100" src="assets/icons/atcoder.png"/>
- </a>
- <a href="https://www.hackerrank.com/dastankg?hr_r=1">
-  <img align="left" alt="LeetCode" width="100" hight="100" src="assets/icons/icons8-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-96.png"/>
- </a>
-</p>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
