@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - I'm 20 years  old, a computer science student in my third year. I am from Kyrgyzstan.
+### - I'm 21 years  old, a computer science student in my third year. I am from Kyrgyzstan.
 
 <img hight="300" width="400" alt="GIF" align="right" src="assets/1.gif">
 
